@@ -253,12 +253,11 @@ gallery ul li p{
   color: #fff;
 }
 gallery ul li img {
-  padding: 10px;
-  width:100px;
-  height: 100px;
-  display: block;
-  margin: auto;
-}
+  width: 100%;
+      height: 100%;
+      display: block;
+      margin: auto;
+  }
 buttons ul{
   height: 300px;
   padding-top: 80px;
